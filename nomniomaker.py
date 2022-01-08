@@ -162,3 +162,5 @@ shape = "Pyramid"  # Shape of nomnio
 leng = 100
 
 print(nomnioAlign(filePath, outFilePath, nameOfNewFile, shape, leng))
+
+# TODO: Divide methods into different files (make folder with all figure methods)  
