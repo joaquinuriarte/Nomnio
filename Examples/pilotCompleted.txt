@@ -1,0 +1,19 @@
+The fileObject will be the name of any object t hat  you assign the open variable to. The offset n var
+iable is required and denotes the position of  the r ead/write pointer within the file that you are “s
+eeking”. The whence argument is optional and  default s to 0, which means absolute file positioning, o
+ther values are 1 which means seek relative  to the cu rrent position and 2 means seek relative to the
+ file's end. Below are a few examples with  different o ptional arguments. The fileObject will be the 
+name of any object that you assign the ope n variable to . The offset variable is required and denotes
+ the position of the read/write pointer w ithin the file  that you are “seeking”. The whence argument 
+is optional and defaults to 0, which mea ns absolute file  positioning, other values are 1 which means
+ seek relative to the current position  and 2 means seek re lative to the file's end. Below are a few 
+examples with different optional argum ents. The fileObject  will be the name of any object that you a
+ssign the open variable to. The offse t variable is required  and denotes the position of the read/wri
+te pointer within the file that you  are “seeking”. The whence  argument is optional and defaults to 0
+, which means absolute file positio ning, other values are 1 wh ich means seek relative to the current
+ position and 2 means seek relativ e to the file's end. Below ar e a few examples with different optio
+nal arguments. The fileObject wil l be the name of any object tha t you assign the open variable to. T
+he offset variable is required a nd denotes the position of the re ad/write pointer within the file th
+at you are “seeking”. The whenc e argument is optional and defaults  to 0, which means absolute file p
+ositioning, other values are 1  which means seek relative to the cur rent position and 2 means seek re
+lative to the file's end. Below are a few examples with different optional arguments.
