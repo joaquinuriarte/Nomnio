@@ -4,7 +4,7 @@
 - New word project
 
 ## Definition
-- Nomnio: El patron vertical de espacios entre palabras en multiples oraciones dentro de un parrafo 
+- Nomnio: El patron vertical que se forma de espacios entre palabras en multiples oraciones dentro de un parrafo (?)
 
 ## Road Map
 1. Get code working with multiple figures
