@@ -12,3 +12,6 @@
 2. Create wikipedia page with explanation and photos of code output (add conjugations of nomnio used here)
 3. Create Webpage to let people try code
 5. Add NFT creation capabilities to let people mint their nomnio from website 
+
+## .py
+1. nomniomaker -> deprecated
